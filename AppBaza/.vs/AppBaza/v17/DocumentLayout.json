@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\appbaza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|solutionrelative:appbaza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|c:\\users\\79821\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\appbaza\\appbaza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|solutionrelative:appbaza\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\appbaza\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|solutionrelative:appbaza\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\appbaza\\dbmysqlutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|solutionrelative:appbaza\\dbmysqlutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\appbaza\\dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64619A96-D886-46DB-ACD0-A8AEB5C50473}|AppBaza\\AppBaza.csproj|solutionrelative:appbaza\\dbutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AppBaza\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\Form1.Designer.cs",
+              "RelativeToolTip": "AppBaza\\Form1.Designer.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:34:17.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\Form1.cs",
+              "RelativeDocumentMoniker": "AppBaza\\Form1.cs",
+              "ToolTip": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\Form1.cs",
+              "RelativeToolTip": "AppBaza\\Form1.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAIA/wFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:06:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBUtils.cs",
+              "DocumentMoniker": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\DBUtils.cs",
+              "RelativeDocumentMoniker": "AppBaza\\DBUtils.cs",
+              "ToolTip": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\DBUtils.cs",
+              "RelativeToolTip": "AppBaza\\DBUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:42:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBMySQLUtils.cs",
+              "DocumentMoniker": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\DBMySQLUtils.cs",
+              "RelativeDocumentMoniker": "AppBaza\\DBMySQLUtils.cs",
+              "ToolTip": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\DBMySQLUtils.cs",
+              "RelativeToolTip": "AppBaza\\DBMySQLUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:42:33.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\Form1.cs",
+              "RelativeDocumentMoniker": "AppBaza\\Form1.cs",
+              "ToolTip": "C:\\Users\\79821\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442 \u0431\u0430\u0437\u0430 \u0434\u0430\u043D\u043D\u044B\u0445\\AppBaza\\AppBaza\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AppBaza\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:23:43.297Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
